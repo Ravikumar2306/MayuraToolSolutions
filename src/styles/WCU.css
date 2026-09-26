@@ -1,0 +1,28 @@
+/* Why Choose Us */
+.WCU-column {
+  width: 100%;
+}
+
+.WCU-head {
+  font-size: 18px;
+}
+
+.WCU-body-text {
+  font-size: 13px;
+}
+
+@media (min-width: 768px) {
+
+  /* Why Choose Us */
+.WCU-column {
+  width: 75%;
+}
+
+.WCU-head {
+  font-size: 21px;
+}
+
+.WCU-body-text {
+  font-size: 16px;
+}
+}

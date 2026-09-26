@@ -1,0 +1,63 @@
+
+.contact-banner{
+    background-image: url("../assets/Contact/Contact-banner.png");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .contact-bg {
+    background-color: #e2ffc8;
+}
+
+.contact-icon {
+    min-width: 50px;
+}
+
+
+ @media (min-width: 768px) {
+    .contact-banner{
+    background-image: url("../assets/Contact/Contact-banner.png");
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .contact-section {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Contact button */
+  .contact-button {
+    width: auto;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    transform: scale(0.9);
+  }
+
+  .contact-button:hover {
+  background-color: #000 !important;
+  color: #fff !important;
+  transform: scale(1);
+}
+
+.contact-button:active {
+  background-color: #000000;
+}
+
+.contact-section .form-control {
+  border-radius: 6px;
+}
+
+.contact-bg {
+    background-color: #e2ffc8;
+}
+
+.form-control::placeholder {
+  color: #adb5bd !important;
+  opacity: 1;
+}
+
+.contact-icon {
+    min-width: 50px;
+}
+ }

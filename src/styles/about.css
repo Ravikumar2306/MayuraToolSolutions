@@ -1,0 +1,11 @@
+/* About Us */
+ .about {
+  width: 75%;
+ }
+
+ @media (min-width: 768px) {
+ /* About Us */
+ .about {
+  width: 40%;
+ }
+ }

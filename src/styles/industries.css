@@ -1,0 +1,44 @@
+
+ /* Industries */
+.industries-body-text {
+  font-size: 14px;
+}
+
+.arrow-btn {
+  width: 80px;
+  height: 80px;
+  position: relative;
+}
+
+/* Common */
+.arrow-icon {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+/* Default state */
+.arrow-icon.black {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+/* Hover state */
+.arrow-btn:hover .arrow-icon.black {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.arrow-btn:hover .arrow-icon.green {
+  opacity: 0;
+}
+
+@media (min-width: 768px) {
+  
+  /* Industries */
+.industries-body-text {
+  font-size: 16px;
+}
+}

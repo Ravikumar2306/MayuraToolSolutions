@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+  --primary: #103562;
+  --secondary: #ffffff;
+  --accent: #e2ffc8;
+
+  --text-primary: #103562;
+  --text-secondary: #687a98;
+  --text-muted: #b8c0d6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  font-family: "inter", sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+  color: var(--text-secondary);
+}
+
+.dark-bg {
+  background-color: var(--primary);
+}
+
+.green-bg {
+  background-color: var(--accent);
+}
+
+.section-padding {
+  padding: 40px 0;
+}
+
+.section-title {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.text-dark-gray {
+  color: var(--text-secondary);
+  max-width: 550px;
+}
+
+.text-light-gray {
+  color: var(--text-muted);
+  max-width: 500px;
+}
+
+.text-green {
+  color: var(--accent);
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.text-blue {
+  color: var(--primary);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.subtitle-white {
+  color: var(--secondary);
+  font-weight: 600;
+}
+
+.subtitle-dark {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.body-text {
+  width: 100%; /* mobile default */
+}
+
+.hero-button {
+  width: 100%;
+  text-decoration: none;
+}
+
+.hero-button:active {
+  background-color: #000000;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+  padding: 80px 0;
+}
+
+  .body-text {
+    width: 60%;
+  }
+
+/* Hero */
+  .hero-button {
+    text-decoration: none;
+    width: auto;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    transform: scale(0.9);
+  }
+
+  .hero-button:hover {
+  background-color: #000 !important;
+  color: #fff !important;
+  transform: scale(1);
+}
+}
+
+
+
+
+

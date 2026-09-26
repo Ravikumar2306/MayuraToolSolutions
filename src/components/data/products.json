@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "PCD & PCBN Cutting Tools",
+      "description": "Our PCD and PCBN cutting tools are designed for high-precision machining of non-ferrous metals, hardened steels, and composite materials. These tools offer excellent wear resistance, longer tool life, and consistent performance, making them ideal for high-speed and high-volume production environments.",
+      "items": [
+        "PCD Reamers",
+        "PCD Milling Cutters",
+        "PCD Turning Tools",
+        "PCBN Inserts",
+        "PCD / PCBN Special Tools"
+      ],
+      "image": "/products/PCD_PCBN.png"
+    },
+    {
+      "id": 2,
+      "title": "Drills & Endmills",
+      "description": "We supply a wide range of drills and endmills engineered for accuracy, strength, and smooth cutting performance. Suitable for various machining applications, these tools ensure efficient material removal, improved surface finish, and reliable results across different industrial operations.",
+      "items": [
+        "Solid Carbide Drills",
+        "Twist Drills",
+        "Flat Drills",
+        "End Mills",
+        "Ball Nose End Mills"
+      ],
+      "image": "/products/Drills_Endmills.png"
+    },
+    {
+      "id": 3,
+      "title": "Diamond Tooling Accessories",
+      "description": "Our diamond tooling accessories support precision finishing, dressing, and surface enhancement processes. Built for durability and accuracy, these tools help maintain tool quality, improve machining consistency, and extend the lifespan of grinding and cutting equipment.",
+      "items": [
+        "Diamond Dressing Tools",
+        "Diamond Wheels",
+        "Diamond Lapping Tools",
+        "Diamond Honing Tools"
+      ],
+      "image": "/products/Diamond_Wheel.png"
+    },
+    {
+      "id": 4,
+      "title": "Grinding Wheels",
+      "description": "Our grinding wheels are manufactured to deliver stable performance, controlled material removal, and superior surface finish. Designed for demanding industrial applications, they ensure reliable grinding results across surface, cylindrical, and centerless grinding operations.",
+      "items": [
+        "Surface Grinding Wheels",
+        "Cylindrical Grinding Wheels",
+        "Centerless Grinding Wheels",
+        "Tool & Cutter Grinding Wheels"
+      ],
+      "image": "/products/Grinding_Wheel.png"
+    },
+    {
+      "id": 5,
+      "title": "Other Precision Tools",
+      "description": "We offer a selection of precision tools and accessories that support accurate measurement, secure tool holding, and efficient machining operations. These tools enhance productivity, improve operational accuracy, and support diverse industrial requirements.",
+      "items": [
+        "Indexable Inserts",
+        "Tool Holders",
+        "Measuring Instruments",
+        "Cutting Tool Accessories",
+        "Special Purpose Tools"
+      ],
+      "image": "/products/Tool_Holder.png"
+    }
+  ]
+}
