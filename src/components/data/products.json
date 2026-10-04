@@ -11,7 +11,7 @@
         "PCBN Inserts",
         "PCD / PCBN Special Tools"
       ],
-      "image": "/products/PCD_PCBN.png"
+      "image": "../products/PCD_PCBN.png"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
         "End Mills",
         "Ball Nose End Mills"
       ],
-      "image": "/products/Drills_Endmills.png"
+      "image": "../products/Drills_Endmills.png"
     },
     {
       "id": 3,
@@ -36,7 +36,7 @@
         "Diamond Lapping Tools",
         "Diamond Honing Tools"
       ],
-      "image": "/products/Diamond_Wheel.png"
+      "image": "../products/Diamond_Wheel.png"
     },
     {
       "id": 4,
@@ -48,7 +48,7 @@
         "Centerless Grinding Wheels",
         "Tool & Cutter Grinding Wheels"
       ],
-      "image": "/products/Grinding_Wheel.png"
+      "image": "../products/Grinding_Wheel.png"
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
         "Cutting Tool Accessories",
         "Special Purpose Tools"
       ],
-      "image": "/products/Tool_Holder.png"
+      "image": "../products/Tool_Holder.png"
     }
   ]
 }
